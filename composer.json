@@ -2,7 +2,16 @@
   "name": "quinninteractive/silverstripe-seo",
   "description": "An all-in-one SEO module for SilverStripe",
   "type": "silverstripe-vendormodule",
-  "keywords": ["silverstripe", "seo", "facebook", "twitter", "opengraph", "search", "optimization", "optimisation"],
+  "keywords": [
+    "silverstripe",
+    "seo",
+    "facebook",
+    "twitter",
+    "opengraph",
+    "search",
+    "optimization",
+    "optimisation"
+  ],
   "license": "BSD-3-Clause",
   "authors": [
     {
